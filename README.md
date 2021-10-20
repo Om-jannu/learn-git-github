@@ -2,4 +2,5 @@
 
 1. *Siddhartha* **Sahu**
 1. *Aniket* **Parate**
+2. *Manish* **Shingre**
 3. *Shubham* **Talawadekar**
