@@ -7,6 +7,7 @@
 1. *Shubham* **Talawadekar**
 1. *Alston* **Fernandes**
 1. *Sanika* **Surve**
+1. *om* **jannu**
 1. **GLorian** *M*
 1. *Akshay* **Shekate**
 1. *Vaibhav* **Patil**
